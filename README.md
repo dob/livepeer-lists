@@ -4,7 +4,7 @@ This repo contains some metadata about the Livepeer protocol.
 
 ## Transcoder metadata
 
-The [/transcoders](tree/master/transcoders) directory contains metadata about [Livepeer transcode candidates](https://explorer.livepeer.org/transcoders). This could be used to link to their transcoder campaigns or social info for developers building tools to help users evaluate transcoder performance.
+The [/transcoders](https://github.com/dob/livepeer-lists/tree/master/transcoders) directory contains metadata about [Livepeer transcode candidates](https://explorer.livepeer.org/transcoders). This could be used to link to their transcoder campaigns or social info for developers building tools to help users evaluate transcoder performance.
 
 ### Contributing
 
