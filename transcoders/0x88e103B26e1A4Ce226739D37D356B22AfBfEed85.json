@@ -1,0 +1,31 @@
+{
+  "address": "0x88e103b26e1a4ce226739d37d356b22afbfeed85",
+  "display_name": ""
+  "campaign": "https://forum.livepeer.org/t/transcoder-campaign-0x88-hyper-transcoder/242"
+  "name": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

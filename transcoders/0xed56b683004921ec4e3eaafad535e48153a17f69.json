@@ -1,0 +1,31 @@
+{
+  "address": "0xed56b683004921ec4e3eaafad535e48153a17f69",
+  "display_name": "Aseralis"
+  "campaign": "https://forum.livepeer.org/t/transcoder-campaign-project-by-aseralis/236"
+  "name": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

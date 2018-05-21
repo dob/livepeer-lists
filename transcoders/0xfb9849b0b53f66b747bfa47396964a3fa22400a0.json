@@ -1,0 +1,31 @@
+{
+  "address": "0xfb9849b0b53f66b747bfa47396964a3fa22400a0",
+  "display_name": "dob"
+  "campaign": "https://forum.livepeer.org/t/transcoder-campaign-for-dob/200"
+  "name": "Doug Petkanics",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "doug@livepeer.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@petkanics",
+    "chat": "https://discord.gg/RR4kFAh",
+    "facebook": "",
+    "forum": "https://forum.livepeer.org/u/dob/activity",
+    "github": "https://github.com/dob",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/u/thedob",
+    "slack": "",
+    "telegram": "https://t.me/petkanics",
+    "twitter": "https://twitter.com/petkanics",
+    "youtube": ""
+  }
+}

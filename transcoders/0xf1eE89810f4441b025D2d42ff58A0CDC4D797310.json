@@ -1,0 +1,31 @@
+{
+  "address": "0xf1eE89810f4441b025D2d42ff58A0CDC4D797310",
+  "display_name": ""
+  "campaign": "https://forum.livepeer.org/t/transcoder-campaign-helsinki-finland/253"
+  "name": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
