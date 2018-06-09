@@ -1,0 +1,31 @@
+{
+  "address": "0x9d2b4e5c4b1fd81d06b883b0aca661b771c39ea3",
+  "display_name": "",
+  "campaign": "https://forum.livepeer.org/t/transcoder-campaign-figment-networks/273",
+  "name": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
