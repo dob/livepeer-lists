@@ -1,0 +1,31 @@
+{
+  "address": "0xbd91c9df3c30f0e43b19b1dd05888cf9b647b781",
+  "display_name": "",
+  "campaign": "https://forum.livepeer.org/t/transcoder-campaign-supermax-transcoder-0xbd91c9/290",
+  "name": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
