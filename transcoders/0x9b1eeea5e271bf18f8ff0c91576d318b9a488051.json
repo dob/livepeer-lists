@@ -1,0 +1,31 @@
+{
+  "address": "0x9b1eeea5e271bf18f8ff0c91576d318b9a488051",
+  "display_name": "",
+  "campaign": "https://forum.livepeer.org/t/transcoder-campaign-0x9b1e-livepeer-audiosister/301",
+  "name": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
