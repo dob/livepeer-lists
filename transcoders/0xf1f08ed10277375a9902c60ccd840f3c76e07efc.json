@@ -1,0 +1,31 @@
+{
+  "address": "0xf1f08ed10277375a9902c60ccd840f3c76e07efc",
+  "display_name": "",
+  "campaign": "https://forum.livepeer.org/t/transcoder-campaign-ethberlin-livepeer-node-0xf1f0/333",
+  "name": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
